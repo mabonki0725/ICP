@@ -4,4 +4,4 @@ ICP
 点群間の最適な変異パラメータをICPで算出する
 
 
-[説明]:http://www.slideshare.net/MasatoNakai1/icp-68183248
+<http://www.slideshare.net/MasatoNakai1/icp-68183248>
